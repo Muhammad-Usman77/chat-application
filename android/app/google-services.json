@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "230055571196",
+    "firebase_url": "https://testing-cli-cef98-default-rtdb.firebaseio.com",
+    "project_id": "testing-cli-cef98",
+    "storage_bucket": "testing-cli-cef98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230055571196:android:1333b1b78b92f9c9e07179",
+        "android_client_info": {
+          "package_name": "com.awantech.untitle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzAx8Pk6rT5kyjepwKzvON-HHvouxiu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230055571196:android:d7ae30164485d4bde07179",
+        "android_client_info": {
+          "package_name": "com.example.api_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzAx8Pk6rT5kyjepwKzvON-HHvouxiu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230055571196:android:678575309df93f00e07179",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzAx8Pk6rT5kyjepwKzvON-HHvouxiu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230055571196:android:17ede73797c55a10e07179",
+        "android_client_info": {
+          "package_name": "com.example.firebase_titorials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzAx8Pk6rT5kyjepwKzvON-HHvouxiu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230055571196:android:cb0a51eefc5cabd0e07179",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzAx8Pk6rT5kyjepwKzvON-HHvouxiu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230055571196:android:be8e428268e94ad5e07179",
+        "android_client_info": {
+          "package_name": "com.example.hacproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzAx8Pk6rT5kyjepwKzvON-HHvouxiu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230055571196:android:bf0a1a80f26ff645e07179",
+        "android_client_info": {
+          "package_name": "com.usmantech.usman_awan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzAx8Pk6rT5kyjepwKzvON-HHvouxiu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
